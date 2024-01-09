@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSBApp2</string>
+    <string name="driver_login">Driver Login</string>
+    <string name="wsb_app">WSB App</string>
+    <string name="logo">TODO</string>
+    <string name="where_do_i_find_these"><u><i>Where do I find these? </i></u></string>
+    <string name="please_enter_your_credentials_as_provided_by_the_organiser">Please enter your credentials as provided by the organiser.</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+</resources>
